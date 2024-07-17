@@ -47,7 +47,7 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="JUnit.AppTest">
+  <component name="RunManager" selected="Application.App">
     <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="App" />
       <module name="spring-helloworld" />
@@ -66,8 +66,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.AppTest" />
         <item itemvalue="Application.App" />
+        <item itemvalue="JUnit.AppTest" />
       </list>
     </recent_temporary>
   </component>
@@ -87,7 +87,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1721205677206</updated>
-      <workItem from="1721205678347" duration="8997000" />
+      <workItem from="1721205678347" duration="10788000" />
     </task>
     <servers />
   </component>
